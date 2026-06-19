@@ -1,0 +1,14 @@
+### Auto generated wallbash colors ###
+
+[color]
+
+ gradient = 1
+ gradient_count = 8
+ gradient_color_1 = '#0D0D0D'
+ gradient_color_2 = '#1A1A1A'
+ gradient_color_3 = '#2E2E2E'
+ gradient_color_4 = '#474747'
+ gradient_color_5 = '#5E5E5E'
+ gradient_color_6 = '#7A7A7A'
+ gradient_color_7 = '#999999'
+ gradient_color_8 = '#B2B2B2'

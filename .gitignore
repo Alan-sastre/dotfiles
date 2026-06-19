@@ -1,0 +1,21 @@
+# Backups
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache / generated files
+**/__pycache__/
+*.pyc
+.cache/
+
+# Large binary or sensitive files
+**/*.mp4
+**/*.avi
+**/*.mov
+
+# Sensitive
+*.env
+**/secrets/
+**/tokens/
